@@ -31,12 +31,10 @@ Continuous, structured record of completed courses, certifications, and applied 
 ## Full archive
 
 | Title | Provider | Type | Date | Skills | Evidence | Certificate |
-|---|---|---|---|---|---|---|
-| Deep Learning Specialization | Coursera | Specialization | 2025-09 | CNNs, Regularization, Optimization | Repo · Report | Verification URL |
-| NLP with Transformers | Hugging Face | Course | 2025-08 | Transformers, Tokenization, Fine-tuning | Repo · Demo | Verification URL |
-| MLOps Specialization | Provider | Track | 2025-07 | CI/CD, Model Registry, Monitoring | Repo | Verification URL |
-| Scalable Data Engineering | Provider | Course | 2025-07 | Spark, Parquet, Orchestration | Repo | Verification URL |
-| Prompt Engineering for Devs | Provider | Course | 2025-06 | Prompting, Evaluation, Guardrails | Repo | Verification URL |
+|---|---|---|----|----|---|---|
+|Feature Engineering |kaggle |Course| 2023 - 4 |Fine-tuning| Repo · Report | Verification URL |
+|to fill|---|---|----|----|---|---|
+
 
 ## Entry template
 
