@@ -4,9 +4,7 @@ Continuous, structured record of completed courses, certifications, and applied 
 
 ## Highlights
 
-- Built and deployed an NLP classifier with $$>92\%$$ accuracy on a balanced benchmark; included evaluation scripts and error analysis notebooks.  
-- Completed an MLOps track and productionized a model with CI, model registry, and automated batch inference.  
-- Implemented a Transformer-based pipeline for sequence labeling with reproducible experiments and experiment tracking.
+
 
 ## How to navigate
 
@@ -16,10 +14,6 @@ Continuous, structured record of completed courses, certifications, and applied 
 
 ## Selected certifications
 
-- Deep Learning Specialization · Coursera · 2025-09  
-  - Evidence: repo, experiment logs, and report  
-  - Certificate: verification URL  
-  - Outcome: Trained CNNs/ResNets; achieved $$92\%$$ on CIFAR-10; optimized inference latency by $$28\%$$
 
 - NLP with Transformers · Hugging Face · 2025-08  
   - Evidence: repo, demo  
