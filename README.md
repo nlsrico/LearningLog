@@ -40,12 +40,12 @@ These badges highlight verified credentials, completed projects, and learning mi
 
 ## 📚 Full Archive
 
-| Title               | Provider | Type   | Date     | Skills       | Evidence       | Certificate       |
-|---------------------|----------|--------|----------|--------------|----------------|-------------------|
-| Feature Engineering | Kaggle   | Course | 2023-04  | Fine-tuning  | Repo · Report  | [Verification URL] |
-| Computer Vision    | Kaggl       | Course    | 2023-04        | —            | —              | —                 |
-| Cloud Native projects (GCP serverless)      | Linkdind Learning        | Course    | 2025-14-10         | —            | —              | —                 |
-| LongChain    | DeepLearning AI      | Course    |        | —            | —              | —                 |
+| Title               | Course Focus| Skills acquired | Type   | Date     |    Provider   | Evidence       | Certificate and Bade Link      |
+|---------------------|----------|----------|--------|----------|--------------|----------------|-------------------|
+| Feature Engineering |  To fill|Kaggle   | Course | 2023-04  | Fine-tuning  | Repo · Report  | [Verification URL] |
+| Computer Vision    |To fill |Kaggl       | Course    | 2023-04        | —            | —              | —                 |
+| Cloud Native projects (GCP serverless)      | To fill | Linkdind Learning        | Course    | 2025-14-10         | —            | —              | —                 |
+| LongChain    |To fill | DeepLearning AI      | Course    |        | —            | —              | —                 |
 
 ---
 
