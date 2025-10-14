@@ -43,7 +43,9 @@ These badges highlight verified credentials, completed projects, and learning mi
 | Title               | Provider | Type   | Date     | Skills       | Evidence       | Certificate       |
 |---------------------|----------|--------|----------|--------------|----------------|-------------------|
 | Feature Engineering | Kaggle   | Course | 2023-04  | Fine-tuning  | Repo · Report  | [Verification URL] |
+| Computer Vision    | Kaggl       | Course    | 2023-04        | —            | —              | —                 |
 | Cloud Native projects (GCP serverless)      | Linkdind Learning        | Course    | 2025-14-10         | —            | —              | —                 |
+| LongChain    | DeepLearning AI      | Course    |        | —            | —              | —                 |
 
 ---
 
